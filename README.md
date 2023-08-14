@@ -19,8 +19,8 @@ Super: |1|
 
 Positive: +1
 
-**
-The theorem:**
+
+**The theorem:**
 
 Neutral numbers quantify the following subsets:
 
