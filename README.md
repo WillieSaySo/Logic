@@ -38,10 +38,10 @@ This gets very complicated to express very quickly, as even up to neutral 4 will
 
 With this arrival of new number theory, we discover two surprising principles:
 
-    Numbers, like words, are objects with existence beyond self-reference and interrelational claims, adhering the laws of mathematics to the laws of linguistics, and vice-versa.
+1. Numbers, like words, are objects with existence beyond self-reference and interrelational claims, adhering the laws of mathematics to the laws of linguistics, and vice-versa.
+2. 
 
-    
-    The greatest difference between the values of different base systems is in the expression of the numbers, collapsing possibility/modality into concretia/actualization in simplified terms.
+3. The greatest difference between the values of different base systems is in the expression of the numbers, collapsing possibility/modality into concretia/actualization in simplified terms.
     
 
 Those who find beauty in the sublime language of mathematics and logic may understand the gravity of these two findings. Together, for the first time, this allocates capacity for poesis (read: poetics) in numerical expression. It also illustrates how super numbers provide bandwidth for the problem of possibility/modality in empirical reality, in that supernumbers may determine neutral 3 could equal -3, -1, +1, or +3. This bridges the gaps of quantum computations and allows us to tie it into the empirical realm of multiverse theory. It’s no longer a dichotomy of Universe v multiverse, the actual world may well all be considered together as the Superverse.
