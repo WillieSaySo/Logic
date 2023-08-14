@@ -41,7 +41,6 @@ With this arrival of new number theory, we discover two surprising principles:
 
 1. Numbers, like words, are objects with existence beyond self-reference and interrelational claims, adhering the laws of mathematics to the laws of linguistics, and vice-versa.
 
-
 2. The greatest difference between the values of different base systems is in the expression of the numbers, collapsing possibility/modality into concretia/actualization in simplified terms.
     
 
